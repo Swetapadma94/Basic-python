@@ -1,0 +1,75 @@
+## Dictionary##
+dict='This is a book'
+print (dict)
+dum = {'name': "john" , 'age': 12 ,'code': 123}
+dum.keys()
+dum.values()
+
+# Decision making
+# if statemnt
+x=4
+if( x == 4) : print ("sweta")
+print ("Good bye")
+
+v=2
+for()
+# if else
+s=10
+if(s%2)==0:
+    print("Even")
+else:
+    print("odd")
+# bit wise operator
+    ~ 45
+bin(45)    
+bin(12)
+bin(~ 45)
+bin(46)
+12 & 13
+12 | 13
+25 & 13
+25 | 13
+12 ^ 13
+10 << 2
+10 >> 2
+import math
+x=math.sqrt(24)
+x
+math.floor(2.5)
+math.ceil(3.2)
+print(math.ceil(4.5))
+math.pow(4,4)
+4 ** 4
+math.pi
+math.e
+help(math)
+24//6
+bin(288)
+0b10010000000
+288 << 2
+bin(1152)
+0b10100000000000
+(288<<2)>>(26//6)
+(288<<2)
+1152>>4
+bin(72)
+bin(7)
+0b11100
+7<<2
+125|265
+652*125
+if True:
+    print("i am right")
+x=int(input("Enter a number"))
+if (x % 2 == 0):
+    print("Even")  
+else:
+    print("odd")
+    
+ x=3  
+if(x==1): 
+    print("one") 
+if(x==2):  
+    print("two")
+if(x==3):
+    print("Three")
